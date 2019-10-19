@@ -1,0 +1,8 @@
+pip install mysql-connector
+pip install flask
+pip install cryptography
+pip install Pyjwt
+pip install flask-cors
+
+---
+sudo apt-get install build-essential libssl-dev libffi-dev python-dev
