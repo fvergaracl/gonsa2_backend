@@ -13,7 +13,7 @@ Jinja2==2.10.3
 jwt==0.5.2
 MarkupSafe==1.1.0
 mysql-connector==2.1.6
-pipenv==2018.11.14
+pipenv==2022.1.8
 pyasn1==0.4.4
 pycparser==2.19
 PyJWT==1.6.4
