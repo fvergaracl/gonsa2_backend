@@ -16,7 +16,7 @@ mysql-connector==2.1.6
 pipenv==2018.11.14
 pyasn1==0.4.4
 pycparser==2.19
-PyJWT==1.6.4
+PyJWT==2.4.0
 six==1.11.0
 typing==3.5.3.0
 virtualenv==16.1.0
